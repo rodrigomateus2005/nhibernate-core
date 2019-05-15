@@ -89,9 +89,6 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\SharedAssemblyInfo.cs">
-      <Link>SharedAssemblyInfo.cs</Link>
-    </Compile>
     <Compile Include="ADOException.cs" />
     <Compile Include="AdoNet\MySqlClientBatchingBatcher.cs" />
     <Compile Include="AdoNet\MySqlClientBatchingBatcherFactory.cs" />
